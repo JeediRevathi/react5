@@ -1,6 +1,6 @@
 [
     {
-        "name": "smily",
+        "name": "chutki",
         "location" : "hyd",
         "role":"java trainjee"
 
@@ -8,5 +8,11 @@
         "name": "pokemon",
         "location" : "sdpt",
         "role":"networking"
+    },
+    {
+        "name":"ankitha",
+        "location":"mncl",
+        "role":"salesforce"
+
     }
 ]
