@@ -1,0 +1,12 @@
+[
+    {
+        "name": "smily",
+        "location" : "hyd",
+        "role":"java trainjee"
+
+    },{
+        "name": "pokemon",
+        "location" : "sdpt",
+        "role":"networking"
+    }
+]
